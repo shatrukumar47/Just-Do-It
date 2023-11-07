@@ -9,7 +9,7 @@ An interactive and attractive To-do List App.
 
 ## Deployment Link
 
-[netlify](https://shatrucodeconverter.netlify.app/)
+[netlify](https://just-do-it-eta.vercel.app/)
 
 ## 🛠 TechStacks 💻
 
